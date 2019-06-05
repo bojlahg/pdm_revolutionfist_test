@@ -1,0 +1,12 @@
+Library
+Temp
+.vs
+.DS_Store
+obj
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.pidb
+*.ipa
+*.mobileprovision
